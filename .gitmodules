@@ -5,6 +5,9 @@
 [submodule "artesianwells"]
 	path = artesianwells
 	url = https://github.com/openwashdata/artesianwells
+[submodule "basisghana"]
+	path = basisghana
+	url = https://github.com/openwashdata/basisghana
 [submodule "biogasoutcomesmalawi"]
 	path = biogasoutcomesmalawi
 	url = https://github.com/openwashdata/biogasoutcomesmalawi
@@ -14,15 +17,30 @@
 [submodule "boreholefuncmwi"]
 	path = boreholefuncmwi
 	url = https://github.com/openwashdata/boreholefuncmwi
+[submodule "boreholelabdata"]
+	path = boreholelabdata
+	url = https://github.com/openwashdata/boreholelabdata
 [submodule "breathablepitlat"]
 	path = breathablepitlat
 	url = https://github.com/openwashdata/breathablepitlat
 [submodule "cbssuitabilityhaiti"]
 	path = cbssuitabilityhaiti
 	url = https://github.com/openwashdata/cbssuitabilityhaiti
+[submodule "chckapmalawi"]
+	path = chckapmalawi
+	url = https://github.com/openwashdata/chckapmalawi
 [submodule "choleramalawi"]
 	path = choleramalawi
 	url = https://github.com/openwashdata/choleramalawi
+[submodule "cleanteamghana"]
+	path = cleanteamghana
+	url = https://github.com/openwashdata/cleanteamghana
+[submodule "dowaodfsurvey"]
+	path = dowaodfsurvey
+	url = https://github.com/openwashdata/dowaodfsurvey
+[submodule "drillingdata"]
+	path = drillingdata
+	url = https://github.com/openwashdata/drillingdata
 [submodule "ds4owdanalytics"]
 	path = ds4owdanalytics
 	url = https://github.com/openwashdata/ds4owdanalytics
@@ -32,6 +50,9 @@
 [submodule "floodchlorinationsurvey"]
 	path = floodchlorinationsurvey
 	url = https://github.com/openwashdata/floodchlorinationsurvey
+[submodule "floodresponsemw"]
+	path = floodresponsemw
+	url = https://github.com/openwashdata/floodresponsemw
 [submodule "fslogisticskampala"]
 	path = fslogisticskampala
 	url = https://github.com/openwashdata/fslogisticskampala
@@ -44,21 +65,48 @@
 [submodule "glossarywho"]
 	path = glossarywho
 	url = https://github.com/openwashdata/glossarywho
+[submodule "grdwtrsmpkwale"]
+	path = grdwtrsmpkwale
+	url = https://github.com/openwashdata/grdwtrsmpkwale
+[submodule "guluswm"]
+	path = guluswm
+	url = https://github.com/openwashdata/guluswm
+[submodule "gwinfraassess"]
+	path = gwinfraassess
+	url = https://github.com/openwashdata/gwinfraassess
+[submodule "handpumpstatusdata"]
+	path = handpumpstatusdata
+	url = https://github.com/openwashdata/handpumpstatusdata
 [submodule "hydrogeologicalghana"]
 	path = hydrogeologicalghana
 	url = https://github.com/openwashdata/hydrogeologicalghana
+[submodule "kalaiwash"]
+	path = kalaiwash
+	url = https://github.com/openwashdata/kalaiwash
+[submodule "mwefloodresponse"]
+	path = mwefloodresponse
+	url = https://github.com/openwashdata/mwefloodresponse
+[submodule "mwgroundwaterdata"]
+	path = mwgroundwaterdata
+	url = https://github.com/openwashdata/mwgroundwaterdata
+[submodule "nchalohhwatersurvey"]
+	path = nchalohhwatersurvey
+	url = https://github.com/openwashdata/nchalohhwatersurvey
 [submodule "owdata"]
 	path = owdata
 	url = https://github.com/openwashdata/owdata
 [submodule "planetaryhdi"]
 	path = planetaryhdi
 	url = https://github.com/openwashdata/planetaryhdi
-[submodule "ploswater"]
-	path = ploswater
-	url = https://github.com/openwashdata/ploswater
+[submodule "portawaterperu"]
+	path = portawaterperu
+	url = https://github.com/openwashdata/portawaterperu
 [submodule "postfloodintervention"]
 	path = postfloodintervention
 	url = https://github.com/openwashdata/postfloodintervention
+[submodule "rainwaterhsurvey"]
+	path = rainwaterhsurvey
+	url = https://github.com/openwashdata/rainwaterhsurvey
 [submodule "rwpfunctionality"]
 	path = rwpfunctionality
 	url = https://github.com/openwashdata/rwpfunctionality
@@ -68,6 +116,9 @@
 [submodule "solidwastekampala"]
 	path = solidwastekampala
 	url = https://github.com/openwashdata/solidwastekampala
+[submodule "thyolocbcc"]
+	path = thyolocbcc
+	url = https://github.com/openwashdata/thyolocbcc
 [submodule "ugabore"]
 	path = ugabore
 	url = https://github.com/openwashdata/ugabore
@@ -77,6 +128,9 @@
 [submodule "unhcrwash"]
 	path = unhcrwash
 	url = https://github.com/openwashdata/unhcrwash
+[submodule "universityrankingafrica"]
+	path = universityrankingafrica
+	url = https://github.com/openwashdata/universityrankingafrica
 [submodule "waschoolpiracema"]
 	path = waschoolpiracema
 	url = https://github.com/openwashdata/waschoolpiracema
@@ -98,6 +152,9 @@
 [submodule "watercostaccra"]
 	path = watercostaccra
 	url = https://github.com/openwashdata/watercostaccra
+[submodule "waterpointstatus"]
+	path = waterpointstatus
+	url = https://github.com/openwashdata/waterpointstatus
 [submodule "waterpumpkwale"]
 	path = waterpumpkwale
 	url = https://github.com/openwashdata/waterpumpkwale
